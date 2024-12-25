@@ -1,7 +1,7 @@
 # Hi there, I'm João Faria! 👋  
 
 ## 🚀 About Me  
-- 🎓 Front-End Developer Certified by Meta  
+- 🎓 Full-stack Developer Certified by Meta and IBM  
 - 💻 Specializing in MERN Stack 
 
 ## 🏅 Certifications  
